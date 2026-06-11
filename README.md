@@ -1,7 +1,9 @@
 # Flight Controller
 
 I am making a STM32F405RGT6 based flight controller for my drone.and has IMU and barometer and has a USB-B Type. It is designed for 4 motor drone. It has 4 layer PCB
-<br><img width="942" height="895" alt="Screenshot 2026-05-30 172601" src="https://github.com/user-attachments/assets/cb6c1bba-5f72-419f-8e5c-2f79c78657e8" />
+
+I  made custom drone inspired by LEGO design. I  designed a Custom Microcontroller for the drone as well which is based on STM32F405RGT6
+<br><img width="857" height="387" alt="Screenshot 2026-06-11 194602" src="https://github.com/user-attachments/assets/99424efd-6442-4112-8460-00a39c7b06ef" />
 
 
 
@@ -12,29 +14,21 @@ I am making a STM32F405RGT6 based flight controller for my drone.and has IMU and
 Microcontroller: STM32F405RGT6<br>
 IMU Sensor: MPU-6050 / ICM-2098<br>
 Barometer: BMP280<br>
-
-- ## Bill of Materials (BOM)
-| Serial Num | Description | Total (USD) | 
-|----:|--------------------------|-------------|
-| 1  | PCB and Assembly  |167.50 |
-| 2 | Shipping - Discount JLCPCB  |14.55 |
+Design inspired by LEGO<br>
 
 
-### 💰 Cost Summary
 
-- **Estimated Total Cost ( PCB ASSEMBLY + Shipping):** **$182.05 USD**
  ## Schematic & PCB<br>
- <img width="992" height="895" alt="Screenshot 2026-05-10 063433" src="https://github.com/user-attachments/assets/d5eb8608-1236-4407-a5cc-08c6a1043dc2" />
-<img width="1259" height="875" alt="Screenshot 2026-05-10 073337" src="https://github.com/user-attachments/assets/819a3ce0-4202-4a11-b31b-0b216b08b1c4" />
-<img width="1148" height="788" alt="Screenshot 2026-05-10 073324" src="https://github.com/user-attachments/assets/59ba31b5-bde4-4e13-a615-9b3ba0115aac" />
+<img width="1262" height="848" alt="Screenshot 2026-05-10 063947" src="https://github.com/user-attachments/assets/f1c9b182-1758-4bcf-996d-7db1baa151a7" />
+<img width="1166" height="782" alt="Screenshot 2026-05-10 064000" src="https://github.com/user-attachments/assets/26c25ef6-2430-4780-8a2c-d9560722f532" />
 
 
 <br>
 
 
 # 3d Render<br>
-<img width="942" height="895" alt="Screenshot 2026-05-30 172601" src="https://github.com/user-attachments/assets/7fd55611-7ef5-4fc2-a61f-b6487fd4310a" />
-<img width="773" height="613" alt="Screenshot 2026-05-30 172545" src="https://github.com/user-attachments/assets/1b670aec-e842-4b47-93a2-312b4bf3e4b6" />
+<img width="873" height="300" alt="Screenshot 2026-06-11 194624" src="https://github.com/user-attachments/assets/dd1e6c51-8ea4-4d17-af44-c24084f24c14" />
+<img width="857" height="387" alt="Screenshot 2026-06-11 194602" src="https://github.com/user-attachments/assets/c0e73264-9643-4f8e-b9df-87e498228123" />
 
 
   <br>
